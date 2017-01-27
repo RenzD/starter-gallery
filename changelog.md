@@ -11,3 +11,5 @@ Release Date: Jul 26, 2027
 ## New Components
 
 ## Updated Components
+
+    - Static to trivial Website conversion update
